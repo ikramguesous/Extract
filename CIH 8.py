@@ -337,7 +337,7 @@ def get_bank_type(pdf_filename, bank_configs):
     return None
 
 def main():
-    pdf_path = "CFG_Bank_S1_24_0.pdf"
+    pdf_path = "BCP_RFS_juin_2024.pdf"
     if not os.path.exists(pdf_path):
         print(f"Erreur: Fichier '{pdf_path}' inexistant.")
         return
