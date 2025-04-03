@@ -59,6 +59,8 @@ Développement sur mesure : Concevoir une solution entièrement personnalisée. 
 - Cas particuliers : Certains rapports aux mises en page atypiques posent encore des difficultés pour une extraction complète et homogène.
   
 - Maintenance continue : Les expressions régulières doivent être régulièrement ajustées pour rester efficaces face aux variations de format des rapports.
+  
+- Problème avec certaines lignes : Certaines lignes, qui étaient calculées et écrites manuellement dans les rapports, ne peuvent donc pas être extraites automatiquement du tableau.
 
 **Gestion des Erreurs**
 
