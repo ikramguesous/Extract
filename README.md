@@ -54,7 +54,7 @@ Développement sur mesure : Concevoir une solution entièrement personnalisée. 
   
 + Modularité : La séparation des étapes (scrapping, extraction, transformation) facilite la maintenance du projet.
 
-  **Inconvénients**
+**Inconvénients**
 
 - Cas particuliers : Certains rapports aux mises en page atypiques posent encore des difficultés pour une extraction complète et homogène.
   
