@@ -1,5 +1,5 @@
-**Extraction des tableaux financiers**
-**Contexte**
+Extraction des tableaux financiers
+Contexte
 Le projet vise à automatiser l’extraction des tableaux financiers à partir des rapports PDF disponibles sur le site de l’AMMC. Ces rapports présentent des mises en page variées et contiennent plusieurs tableaux (Bilan Actif, Bilan Passif, Compte de Produits et Charges, États des Soldes et Gestion). Le défi est de concevoir une méthode capable de :
 
 1.Scrapper automatiquement les liens des rapports.
