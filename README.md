@@ -66,7 +66,7 @@ Nous avons décidé d’utiliser la bibliothèque PyPDF2 pour extraire le texte 
 
 + Gestion des Exceptions : Mise en place de mécanismes pour gérer les PDF mal formatés ou les échecs d’extraction (par exemple, en réessayant l’extraction ou en passant le document concerné pour un traitement manuel).
 
-  **Suivi et prochaines étapes**
+**Suivi et prochaines étapes**
   
 Choisir un modèle de LLM : Évaluer et intégrer un modèle de traitement du langage naturel (Large Language Model) afin d'améliorer l'extraction automatique.
 
